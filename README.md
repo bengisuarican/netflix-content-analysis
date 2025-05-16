@@ -16,3 +16,5 @@ Key insights include:
 - **Power Query**: For cleaning and transforming the original dataset  
 
 The dataset used is `netflix_titles.csv`, publicly available on Kaggle.
+
+📌 **Note:** The Excel file cannot be previewed on GitHub due to its size limit. However, you can still download it to view the full dashboard and data analysis.
